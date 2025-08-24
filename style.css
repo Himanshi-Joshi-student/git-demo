@@ -1,3 +1,6 @@
-p{
+p :first-child{
     color: rgba(182, 46, 130, 0.615);
+}
+p :second-child{
+    color: aquamarine;
 }
